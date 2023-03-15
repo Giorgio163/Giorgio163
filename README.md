@@ -4,7 +4,7 @@ I have 7 years as Cabin Service Supervisor. In addition i have a High School Dip
 
 
 - :computer: Currently, I'm looking for an opportunity to work as a junior or intern developer. :elephant:
-- 
+
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/giorgio-selmi-704223107/) | [Email](mailto:selmi.giorgio@gmail.com)
 
 Always happy to work on Teams, Learning new things and helping with solutions is something i always liked to work with. 
