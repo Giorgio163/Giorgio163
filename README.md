@@ -10,3 +10,10 @@ I have almost 7 years as Cabin Service Supervisor. In addition i have a High Sch
 - :round_pushpin: Current Location: Milan, Italy
 
 Always happy to work on Teams, Learning new things and helping with solutions is something i always liked to work with. 
+
+
+Check out some of my projects here on GitHub:
+
+<a href="https://github.com/Giorgio163/job-board-api">Job Board API</a>
+<a href="https://github.com/Giorgio163/api-blog-posts">Blog post API</a>
+<a href="https://github.com/Giorgio163/web-shopping">Web Shopping</a>
