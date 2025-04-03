@@ -3,7 +3,7 @@
 I have almost 7 years as Cabin Service Supervisor. In addition i have a High School Diploma and a Certification as First Aider. Currently i'm a PHP student at Jagaad Academy and have been focusing on Backend development with PHP, Symfony, MySQL, and Object-Oriented Programming. In my GitHub you will find some of my projects that covered some topics that I'm studying :books:
 
 
-- :computer: Currently, I'm looking for an opportunity to work as a junior or intern developer. :elephant:
+- :computer: Currently, I'm working for a company as php developer. :elephant:
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/giorgio-selmi-704223107/) | [Email](mailto:selmi.giorgio@gmail.com)
 
