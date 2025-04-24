@@ -7,7 +7,7 @@ I have almost 7 years as Cabin Service Supervisor. In addition i have a High Sch
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/giorgio-selmi-704223107/) | [Email](mailto:selmi.giorgio@gmail.com)
 
-- :round_pushpin: Current Location: Milan, Italy
+- :round_pushpin: Current Location: Genoa, Italy
 
 Always happy to work on Teams, Learning new things and helping with solutions is something i always liked to work with. 
 
