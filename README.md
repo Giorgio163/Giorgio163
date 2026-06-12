@@ -15,8 +15,8 @@ Always happy to work on Teams, Learning new things and helping with solutions is
 Check out some of my projects here on GitHub:
 
 JAVA:
-
 <a href="https://github.com/Giorgio163/shp-api">Simple Java ecommerce</a>
+
 Python:
 - <a href="https://github.com/Giorgio163/virtual-assistant-municipality">Simple virtual assistant</a>
 
