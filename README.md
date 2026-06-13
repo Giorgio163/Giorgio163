@@ -1,9 +1,11 @@
-### Giorgio - PHP Backend Developer 👋
+Giorgio - Backend Developer 👋
+I have almost 7 years of experience as Cabin Service Supervisor. In addition, I hold a High School Diploma and a First Aider Certification.
 
-I have almost 7 years as Cabin Service Supervisor. In addition i have a High School Diploma and a Certification as First Aider. Currently i'm a PHP Developer and have been focusing on Backend development with PHP, Symfony, MySQL, and Object-Oriented Programming. In my GitHub you will find some of my projects that covered some topics that I'm studying :books:
+I am currently working as a PHP Backend Developer, focusing on backend development with PHP, Symfony, MySQL, and Object-Oriented Programming.
 
+📚 I’m also actively expanding my skills by learning Java and Python, which I use in personal projects and study exercises to deepen my understanding of backend concepts and software architecture.
 
-- :computer: Currently, I'm working for a company as php developer. :elephant:
+💻 You can find some of my projects on GitHub, where I explore different technologies and practice what I learn.
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/giorgio-selmi-704223107/) | [Email](mailto:selmi.giorgio@gmail.com)
 
