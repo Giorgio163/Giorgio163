@@ -4,7 +4,7 @@ I have almost 7 years of experience as Cabin Service Supervisor. In addition, I 
 
 I am currently working as a PHP Backend Developer, focusing on backend development with PHP, Symfony, MySQL, and Object-Oriented Programming.
 
-📚 I’m also actively expanding my skills by learning #Java and #Python, which I use in personal projects and study exercises to deepen my understanding of backend concepts and software architecture.
+📚 I’m also actively expanding my skills by learning Java and Python, which I use in personal projects and study exercises to deepen my understanding of backend concepts and software architecture.
 
 💻 You can find some of my projects on GitHub, where I explore different technologies and practice what I learn.
 
