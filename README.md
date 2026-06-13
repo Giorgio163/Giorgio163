@@ -1,4 +1,5 @@
-Giorgio - Backend Developer 👋
+## Giorgio - Backend Developer 👋
+
 I have almost 7 years of experience as Cabin Service Supervisor. In addition, I hold a High School Diploma and a First Aider Certification.
 
 I am currently working as a PHP Backend Developer, focusing on backend development with PHP, Symfony, MySQL, and Object-Oriented Programming.
